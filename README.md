@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Amit, recently graduated from Dev Academy Aotearoa 
+- 🌱 I’m currently learning Next.js
+- 📫 You can find me on Linkedin
+- ⚡ Fun fact: Earth is round not flat
